@@ -22,7 +22,7 @@ repository               : "HugoPierrot/hugopierrot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Trombi.jpg"
   name             : "Hugo PIERROT"
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD student in magmatic geochemistry, petrography and geochronology"
