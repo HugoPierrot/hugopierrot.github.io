@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title" #TITRE DE LA PAGE PRINCIPALE
+title                    : "Hugo Pierrot Personal Website" #TITRE DE LA PAGE PRINCIPALE
 title_separator          : "-"
 name                     : &name "Hugo Pierrot"
 description              : &description "personal description"
