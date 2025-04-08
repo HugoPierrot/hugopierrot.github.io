@@ -20,3 +20,7 @@ Unfortunately, all good things must come to an end, and I am currently looking f
 As outlined in my profile, I study the Paleozoic basement of the Morvan region (NE part of the French Massif Central) using petrography, geochemistry, and geochronology. This research has led me to dig into the geological past of the Variscan orogeny (420–280 Ma) in the region, revealing deep partial melting processes, acidic crustal-derived volcanism, and plutonism within a continental collision setting. These phenomena appear to be driven by crust–mantle interactions, which are still actively debated within the scientific community.
 
 My work has been presented (through posters and talks) at several conferences: the SGF meeting in 2022, Goldschmidt (Lyon) and RST (Rennes) in 2023, and the upcoming EGU in Vienna in 2025. It has also led to three research articles: on mantle-derived plutonism (submitted, currently under revision); on Carboniferous acidic volcanism linked to crustal partial melting (work in progress); on the Morvan granitoids, proposing a 50-million-year geodynamic evolution of the region during the Variscan cycle (work in progress).
+
+<p align="center">
+<img src="/images/JDD.JPG" alt="drawing" width="75%" class="center"/>
+</p>
