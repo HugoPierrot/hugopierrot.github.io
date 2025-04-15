@@ -15,6 +15,10 @@ For as long as I can remember, I’ve always been passionate about natural disas
 
 Unfortunately, all good things must come to an end, and I am currently looking for a postdoctoral position in geochemistry, petrography, and geochronology within convergent settings (orogenesis, subduction), in order to continue my exploration of the world of volcanoes and mountains.
 
+<p align="center">
+<img src="/images/Carrière.jpeg" alt="drawing" width="75%" class="center"/>
+</p>
+
 ## A summary of my scientific research topic
 
 As outlined in my profile, I study the Paleozoic basement of the Morvan region (NE part of the French Massif Central) using petrography, geochemistry, and geochronology. This research has led me to dig into the geological past of the Variscan orogeny (420–280 Ma) in the region, revealing deep partial melting processes, acidic crustal-derived volcanism, and plutonism within a continental collision setting. These phenomena appear to be driven by crust–mantle interactions, which are still actively debated within the scientific community.
