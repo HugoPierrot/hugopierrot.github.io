@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome and thank you for scanning the QR Code"
+title: "Welcome and thank you being in my still under construction website"
 author_profile: true
 redirect_from: 
   - /about/
