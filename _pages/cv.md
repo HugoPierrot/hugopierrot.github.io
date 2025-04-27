@@ -65,7 +65,10 @@ Skills
   * Geoscience courses for 1st year undergraduate students
   * Supervision of interships at various academic levels
 * PhD student representative
- 
+
+<p align="center">
+<img src="/images/Cotentin-1.jpg" alt="drawing" width="75%" class="center"/>
+</p>
   
 # Publications
 # ======
