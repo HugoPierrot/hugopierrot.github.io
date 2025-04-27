@@ -40,31 +40,45 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Development of research programs
+  * Time, financial and material organization
+  * Multi-stakeholder collaboration
+* Communication and writing
+  * Scientific articles
+  * International conferences
+  * Popular science outreach
+* Sample preparation for geochemical, geochronological and petrographic studies
+  * Acid digestion
+  * Heavy minerals extraction
+  * ICP-MS analysis
+  * Thin sectioning
+* Professional use of optical microscopy, SEM and electron microprobe
+* Fieldwork, sample and geological characterization
+  * All types of terrains, specialized on crystalline basement rocks
+* Proficient use of software tools (Microsoft Word, Powerpoint, Excel, Python, MatLab, QGIS, IgPet 2018, CorelDraw etc...)
+* Driving license (Category B)
+* English: B1 level (spoken, written, technical); Spanish: A2 level (spoken, written)
+* Teaching experience
+  * 160 hours accumulated
+  * Field courses in magmatic and metamorphic contexts for Bachelor's and Master's students
+  * Lectures in igneous and metamorphic petrology for Bachelor's students
+  * Geoscience courses for 1st year undergraduate students
+  * Supervision of interships at various academic levels
+* PhD student representative
+ 
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Talks and Posters
+# ======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
